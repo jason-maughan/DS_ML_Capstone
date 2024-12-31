@@ -13,11 +13,11 @@ SpaceX revolutionized space travel with its affordable launch costs thanks to re
 ### ️ Methodology
 
 1. **Data Acquisition:**
-    * We retrieved data from the SpaceX REST API and Wikipedia web scraping.
+    * Retrieved data from the SpaceX REST API and Wikipedia web scraping.
 2. **Data Wrangling:**
     * Data was filtered, missing values addressed, and one-hot encoded for binary classification.
 3. **Exploratory Data Analysis (EDA):**
-    * We visualized and analyzed the data using both traditional methods and SQL.
+    * Visualized and analyzed the data using both traditional Python methods and SQL.
 4. **Interactive Visual Analytics:**
     * Interactive visualizations were created using Folium and Plotly Dash.
 5. **Predictive Modeling:**
