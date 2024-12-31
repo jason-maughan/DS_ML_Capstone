@@ -1,4 +1,4 @@
-# :rocket: Applied Data Science Capstone: SpaceX Rocket Landing Prediction
+# Data Science and Machine Learning Capstone: SpaceX Rocket Landing Prediction
 
 ### Project Overview
 
